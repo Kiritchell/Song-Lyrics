@@ -63,39 +63,34 @@ a{
   margin-top:-9px;
 }
 
+
 /* Buttons */
 
 .button{
   justify-content: center;
   width:250px;
-  color:#F4E4BA;
-  background-color:#4A7C59;
-  text-shadow:2px 2px 1px #D77A61;
+  color:#efebce;
+  background-color:#b75d69;
   font-family: 'neoclassical', serif;
-  font-size:2em;
+  font-size:1.5em;
   padding:5px 10px;
   border:none;
   margin-left:15px;
   margin-right:15px;
   border-radius:15px;
   letter-spacing: .5px;
-  border-bottom:4px solid #D77A61;
-  border-right:4px solid #D77A61;
   margin-bottom:20px;
   display: flex;
 
 }
 
 .button:hover{
-  background-color:#D77A61;
-  color:#565676;
-  text-shadow:2px 2px 1px #BBBDF6;
-  border-bottom:4px solid #4A7C59;
-  border-right:4px solid #4A7C59;
-  font-size:2.1em;
+  background-color:#efebce;
+  color:#b75d69;
+
+
 }
 
-.button:active{font-size:1.7em;}
 
 @media (max-width: 768px){
 .flex-center{flex-direction: column;
