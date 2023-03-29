@@ -94,6 +94,8 @@ a{
 
 @media (max-width: 768px){
 .flex-center{flex-direction: column;
+  margin-left:5px;
+  margin-right:5px;
 align-items: center;
 }
 
