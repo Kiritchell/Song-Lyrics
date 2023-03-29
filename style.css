@@ -18,21 +18,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color:#252422;
-  color:#F4E4BA;
-  }
-
-
-.main-title{
-  color:#F4E4BA;
-  transform:rotate(90deg);
-  opacity:.5;
-  position:absolute;
-  right:-45px;
-  bottom:55px;
-  font-size:1.5em;
-  font-family: 'neoclassical', serif;
-  /*text-shadow:2.5px 2.5px 5px #D77A61;*/
+  background-color:#1b1b1e;
+  color:#efebce;
   }
 
 a{
@@ -47,7 +34,7 @@ a{
 
 
 .h1 {margin-top:-10px;
-  text-shadow:2px 2px 1px #D77A61;
+  text-shadow:2px 2px 1px #b75d69;
   font-family: 'neoclassical', serif;
   margin-right:30px;
   font-size:2em;
@@ -57,7 +44,7 @@ a{
 .p-normal {
   font-family: 'neoclassical', serif;
   /*text-shadow:2.5px 2.5px 5px #D77A61;*/
-  font-size:1.5em;
+  font-size:1.2em;
   margin-left:100px;
   margin-right:100px;
 }
@@ -67,14 +54,6 @@ a{
   font-size:.8em;
   font-weight: 300;}
 
-.special-font{
-  font-family: 'Libre Barcode 39 Text', cursive;
-  font-size:2em;
-  display: block;
-  bottom:0px;
-  position:absolute;
-  left:10px;
-  color:#D77A61;}
 
 /* Spacers */
 #top-spacer{
